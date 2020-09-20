@@ -6,7 +6,7 @@ export default function index() {
     <div>
       <h1> Hello World! </h1>
       <p> Hello New York! </p>
-      <Link to='/about/'> Learn about me &rarr;</Link>
+      <Link to='/about/'> Learn about me (my name is mario) &rarr;</Link>
     </div>
   )
 }
