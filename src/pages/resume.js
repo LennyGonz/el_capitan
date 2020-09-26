@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default const Resume = () => {
+const Resume = () => {
   const placeholder = '';
 
   return (
@@ -9,3 +9,5 @@ export default const Resume = () => {
     </div>
   )
 }
+
+export default Resume;
