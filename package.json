@@ -28,6 +28,11 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "@mdx-js/mdx": "^1.6.18",
     "@mdx-js/react": "^1.6.18",
     "gatsby": "^2.24.62",
@@ -40,7 +45,9 @@
     "gatsby-transformer-sharp": "^2.5.15",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-animated-burgers": "^1.2.8",
     "react-dom": "^16.13.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.2.0"
   }
 }
