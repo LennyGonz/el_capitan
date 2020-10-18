@@ -8,7 +8,6 @@ const Navbar = ({ toggle }) => {
       <Nav>
         <NavbarContainer>
           <NavLogo to='/'>
-            <GiHamburger />
             dolla
           </NavLogo>
           <MobileIcon onClick={toggle} >
